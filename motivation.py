@@ -1,4 +1,4 @@
-#este es un comentario aja si.... redonda. Esto ya lo vimos con el aja
+#este es un comentario aja si.... redonda. Esto ya lo vimos con el profe
 import random
 
 def generate_random_list(length, min_val=-10, max_val=10):
